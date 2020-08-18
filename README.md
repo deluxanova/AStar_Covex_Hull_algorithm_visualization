@@ -1,2 +1,2 @@
 # AStar_pathfinding_algorithm_visualization
-A python visualization of the A Star Path-finding Algorithm
+A python visualization of the A Star Path-finding Algorithm usng pygame module
