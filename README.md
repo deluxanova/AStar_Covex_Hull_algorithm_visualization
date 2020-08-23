@@ -1,2 +1,2 @@
-# AStar_pathfinding_algorithm_visualization
-A python visualization of the A Star Path-finding Algorithm usng pygame module
+# AStar_Path-finding_and_Convex_Hull_Algorithm_visualization
+A python visualization of the A Star Path-finding and Convex Hull Algorithm using pygame module.
